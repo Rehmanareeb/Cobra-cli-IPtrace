@@ -28,4 +28,4 @@ If you find any issues in the code or at any place just open a pull request and 
 
 Happy-coding.
 
-              ![](https://github.com/Rehmanareeb/Cobra-cli-IPtrace/blob/main/assests/happy_coding.gif)
+  ![](https://github.com/Rehmanareeb/Cobra-cli-IPtrace/blob/main/assests/happy_coding.gif)
