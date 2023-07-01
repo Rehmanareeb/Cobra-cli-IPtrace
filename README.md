@@ -5,16 +5,16 @@ A simile IP trace cli made using Cobra library
 I just didn't wanted to feel like I was wasting my time.That is my motivation.
 
 ## Getting started:
-*Make sure that you have [git](https://git-scm.com/) installed before cloning.
-*Install the [cobra-cli](https://github.com/spf13/cobra) using the command:
+* Make sure that you have [git](https://git-scm.com/) installed before cloning.
+* Install the [cobra-cli](https://github.com/spf13/cobra) using the command:
 ```go install github.com/spf13/cobra-cli@latest```
-*clone this repository:
+* clone this repository:
 ```git clone https://github.com/Rehmanareeb/Cobra-cli-IPtrac```
-*Open your terminal and navigate to the cloned repository:
-**cd Cobra-cli-IPtrace
-*Install it in the go path:
+* Open your terminal and navigate to the cloned repository:
+**cd Cobra-cli-IPtrace**
+* Install it in the go path:
 ```go install .```
-*Run the command to trace the IP:
+* Run the command to trace the IP:
 ```iptracker trace <ip>```
 
 ## Issuses:
