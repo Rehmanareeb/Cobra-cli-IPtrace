@@ -8,7 +8,7 @@ I just didn't wanted to feel like I was wasting my time.That is my motivation.
 * Make sure that you have [git](https://git-scm.com/) installed before cloning.
 * Install the [cobra-cli](https://github.com/spf13/cobra) using the command:
   
-```go install github.com/spf13/cobra-cli@latest```
+{```go install github.com/spf13/cobra-cli@latest```}
 * clone this repository:
   
 ```git clone https://github.com/Rehmanareeb/Cobra-cli-IPtrace```
