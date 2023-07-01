@@ -9,7 +9,7 @@ I just didn't wanted to feel like I was wasting my time.That is my motivation.
 * Install the [cobra-cli](https://github.com/spf13/cobra) using the command:
 ```go install github.com/spf13/cobra-cli@latest```
 * clone this repository:
-* 
+  
 ```git clone https://github.com/Rehmanareeb/Cobra-cli-IPtrac```
 * Open your terminal and navigate to the cloned repository:
 **cd Cobra-cli-IPtrace**
