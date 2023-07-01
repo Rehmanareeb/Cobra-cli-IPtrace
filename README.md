@@ -1,4 +1,4 @@
-# Cobra-cli-IPtrace
+# Cobra-cli-IPtrace ![](https://github.com/Rehmanareeb/Cobra-cli-IPtrace/blob/main/assests/snake-pic.png)
 A simile IP trace cli made using Cobra library 
 
 ## Motivation:
