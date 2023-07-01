@@ -25,5 +25,7 @@ I just didn't wanted to feel like I was wasting my time.That is my motivation.
 
 ## Issuses:
 If you find any issues in the code or at any place just open a pull request and fix it and submit it.
-Happy-coding
+
+Happy-coding.
+
 ![](https://github.com/Rehmanareeb/Cobra-cli-IPtrace/blob/main/assests/happy_coding.gif)
