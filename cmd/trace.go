@@ -95,3 +95,4 @@ func GetData(url string) []byte {
 func init() {
 	rootCmd.AddCommand(TraceCmd)
 }
+
