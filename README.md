@@ -1,5 +1,5 @@
 # Cobra-cli-IPtrace 🐍
-A simile IP trace cli made using Cobra library 
+A simple cli tool that can be used to to trace a provided IP made using [Cobra library](https://github.com/spf13/cobra) 
 
 ## Motivation:
 I just didn't want to feel like I was wasting my time. That is my motivation.
