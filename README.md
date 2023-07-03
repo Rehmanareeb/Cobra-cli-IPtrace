@@ -2,8 +2,7 @@
 A simile IP trace cli made using Cobra library 
 
 ## Motivation:
-I just didn't wanted to feel like I was wasting my time.That is my motivation.
-
+I just didn't want to feel like I was wasting my time. That is my motivation.
 ## Getting started:
 * Make sure that you have [git](https://git-scm.com/) installed before cloning.
 * Install the [cobra-cli](https://github.com/spf13/cobra) using the command:
